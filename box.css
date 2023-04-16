@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.Header{
+   background-color: #92DFC8;
+   color: black;
+   text-align: center;
+   padding: 24px
+}
+.section1{
+    margin-bottom: 24px;
+}
+
+.section1 .content{
+    background-color: #CAEFF2;
+    float: left;
+    width: 70%;
+    text-align: center;
+    height: 500px;
+}
+.section1 .aside{
+    background-color:#F2D8CA;
+    float: right;
+    width: 30%;
+    text-align: center;
+    height:500px;
+
+}
